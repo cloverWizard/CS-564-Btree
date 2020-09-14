@@ -1,0 +1,3 @@
+Clearly indicate what your new test case and design report files are called,
+for example by putting in a outline.txt file that describes your test and 
+design report file locations. 
